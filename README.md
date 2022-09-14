@@ -14,5 +14,5 @@ Download Installer
 #### > git status
 #### > git add .
 #### > git commit -m “Custom message”
-#### > git remote <remote url>
-#### > git push -u origin <branch name>
+#### > git remote (remote url)
+#### > git push -u origin master (master is default origin in github)
