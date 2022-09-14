@@ -7,8 +7,9 @@ Download Git
 Download Installer
 #### Install git
 #### Check Git version
-#### Create Local Repository
 
+
+### Create Local Repository:
 #### > git init
 #### > git status
 #### > git add .
