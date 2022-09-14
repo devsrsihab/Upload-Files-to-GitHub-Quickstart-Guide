@@ -1,6 +1,6 @@
 # Upload-Files-to-GitHub-Quickstart-Guide
 
-##Article summary
+## Article summary <br>
 Create Remote Repository on GitHub.com
 Download Git
 
